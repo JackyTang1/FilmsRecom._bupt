@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/logs/logs",
+    "pages/weekly/weekly",
+    "pages/details/details",
+    "pages/datails/details"
+  ],
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#16f2e7",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "主页",
+        "iconPath": "pages/image2/主页.png",
+        "selectedIconPath": "pages/image2/主页.png"
+      },
+      {
+        "pagePath": "pages/weekly/weekly",
+        "text": "电影推荐",
+        "iconPath": "pages/image2/推荐.png",
+        "selectedIconPath": "pages/image2/推荐.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "电影君",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

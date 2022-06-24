@@ -1,0 +1,36 @@
+/* pages/weekly/weekly.wxss */
+.title{
+  position: fixed;
+  left:230rpx;
+}
+
+.dianying{
+  height:200rpx;
+  width:200rpx;
+}
+
+.movie{
+  display: flex;
+}
+
+.movie-card{
+height:100%;
+width: 91%;
+
+}
+
+.movie-swiper{
+  height: 90vh;
+}
+
+.return-button{
+  position: absolute;
+  right: 100rpx;
+  top: 20rpx;
+  font-size: 30rpx;
+  font-style: italic;
+  border: 2rpx solid blue;
+  border-radius: 10%;
+  border-right: 0;
+}
+

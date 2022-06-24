@@ -1,0 +1,5 @@
+<view class="container">
+<image class="bizhi" src="/pages/image1/8558969.jpg"></image>
+<text style="font-weight:bold; font-size:60rpx">电影星推荐</text>
+<text>持续不断推出好电影</text>
+</view>

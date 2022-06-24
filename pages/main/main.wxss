@@ -1,0 +1,10 @@
+
+text{
+  display:block;
+  color: rgb(238, 15, 219);
+}
+.bizhi{
+  height:375rpx;
+  width:375rpx;
+  border-radius: 50%;
+}
